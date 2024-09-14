@@ -40,6 +40,8 @@ Caso Practico para el múdulo de Tableau del Diplomado en Ciencia de Datos
    * Crear estrategias para optimizar el ambiente laboral en todos los niveles, así como revisar con cada área los planes de crecimiento que puedan existir. Esto para contrarestar los principales motivos por los que el personal decide darse de baja voluntariamente.
    * Revisar el formato con el que se realizan las evaluaciones de rendimiento, si bien los ultimos resultados arrojan buenos numeros,es posible aún mejorar para proximas evaluaciones, algunas ideas podrían ser el dar incentivos a los empleados que se encuentren en la categoría mas alta y alentar a los que se encuentren en las mas bajas con una retroalimentación personal.
   
+## Enlace para sitio Tableau
+https://public.tableau.com/app/profile/minerva.pimentel/viz/Ejercicio_Practico_17263471525170/SRLCompany
 
 
 
