@@ -13,7 +13,7 @@ Caso Practico para el múdulo de Tableau del Diplomado en Ciencia de Datos
   ![Analisis_genero_completo](https://github.com/user-attachments/assets/a09a6bd1-5ca5-4034-a05a-30c36418d194)
 
   Despues de analizar los gráficos anteriores, podemos decir que la empresa se encuentra en un estado de paridad de género, ya que en todos los departamentos existe 
-  presencia de género femenino. El gráfico tambien es de utilidad para mostrar al departamento de RH que puede establecer mecanismos de crecimiento laboral, por ejemplo
+  presencia de género femenino y masculino. El gráfico tambien es de utilidad para mostrar al departamento de RH que puede establecer mecanismos de crecimiento laboral, por ejemplo
   para dar oportunidades a mujeres de que tambien tengan puestos gerenciales, ya que estos los lideran en su mayoría el género masculino.
 
 + Análisis de razones de terminación de contrato voluntarias
